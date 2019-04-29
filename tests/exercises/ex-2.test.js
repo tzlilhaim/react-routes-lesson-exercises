@@ -8,7 +8,6 @@ import { mount, render, shallow, configure } from 'enzyme';
 import Adapter from 'enzyme-adapter-react-16';
 import { wrap } from 'module';
 import { MemoryRouter } from 'react-router-dom';
-import Fentity from '../../src/components/Fentity';
 
 
 configure({ adapter: new Adapter() });
@@ -71,9 +70,3 @@ describe("exercise2", () => {
             .toContain("Buckbeak");
     });
 })
-
-
-
-
-
-
