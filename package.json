@@ -6,7 +6,6 @@
     "bluebird": "^3.5.1",
     "jest-cli": "^23.4.2",
     "jest-json-reporter": "^1.2.2",
-    "jest-test-runner": "git+https://github.com/Elevationacademy/jest-test-runner.git",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-router-dom": "^4.3.1",
@@ -20,6 +19,7 @@
     "enzyme-adapter-react-16": "^1.1.1",
     "jest": "^23.4.2",
     "jest-emotion": "^10.0.10",
+    "jest-test-runner": "git+https://github.com/Elevationacademy/jest-test-runner.git",
     "jest-expect-message": "github:Elevationacademy/jest-expect-message",
     "jest-transform-stub": "^1.0.0",
     "react-test-renderer": "^16.4.2"
